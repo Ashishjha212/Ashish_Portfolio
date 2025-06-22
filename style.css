@@ -1,0 +1,187 @@
+<style>
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(2, 2, 90);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    background-color: rgb(45, 45, 98);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: rgb(98, 93, 100);
+    font-size: 1.2rem;
+}
+
+main hr {
+    border: 0;
+    background-color: rgb(132, 42, 165);
+    height: 1.2px;
+    margin: 40px 40px;
+}
+
+.left {
+    font-size: 1.5rem;
+}
+
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0;
+    align-items: center;
+}
+
+.secondSection {
+    max-width: 80vw;
+    margin: auto;
+    height: 80vh;
+}
+
+.secondSection h1 {
+    font-size: 1.7rem;
+}
+
+.secondSection .box {
+    background-color: white;
+    width: 76vw;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
+}
+
+.secondSection .vertical {
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 120px;
+}
+
+.firstsection div {
+    width: 30%;
+}
+
+.leftsection {
+    font-size: 2rem;
+    margin: 26px 0;
+}
+
+.leftsection .buttons {
+    padding: 20px 10px;
+}
+
+.leftsection .btn {
+    padding: 12px;
+    margin: 8px;
+    background: rgb(17, 78, 109);
+    color: white;
+    border: 2px solid white;
+    border-radius: 23px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.rightsection img {
+    width: 80%;
+    margin: 15px 0;
+    align-items: center;
+}
+
+.purple {
+    color: blueviolet;
+}
+
+#element {
+    color: blueviolet;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.image-top {
+    position: relative;
+    top: -55px;
+    left: -10px;
+    height: 59px;
+}
+
+.vertical-title {
+    position: relative;
+    top: 26px;
+    left: -100px;
+    width: 252px;
+}
+
+.vertical-title .job-discription {
+    color: rgba(148, 202, 13, 0.922);
+}
+
+.vertical-desc {
+    position: relative;
+    top: 27px;
+    left: -41px;
+}
+
+.vertical-desc1 {
+    position: relative;
+    top: 27px;
+    left: -71px;
+    width: 181px;
+}
+
+.vertical-desc2 {
+    position: relative;
+    top: 27px;
+    left: -84px;
+    width: 235px;
+}
+
+footer {
+    background-color: rgb(163, 95, 95);
+    height: 170px;
+}
+
+.footer {
+    display: flex;
+    padding: 23px 122px;
+}
+
+.footer .footer-first {
+    margin-right: 617px;
+}
+
+.link {
+    height: 25px;
+    width: 39px;
+}
+
+footer .footer-rights {
+    text-align: center;
+    color: rgba(202, 176, 9, 0.784);
+}
+
