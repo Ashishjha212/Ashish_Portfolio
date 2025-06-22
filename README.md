@@ -22,16 +22,11 @@ Downloadable resume
 
 Contact form with validation
 
-📷 Screenshots (Optional)
-Add screenshots or a GIF demo of your project for quick visuals.
+📷 Screenshots
 
-markdown
-Copy
-Edit
-![Homepage Screenshot](images/homepage.png)
+![Screenshot (362)](https://github.com/user-attachments/assets/d4e7c724-7246-4edb-91b3-f5d3368425aa)
+
 ⚙️ Technologies Used
-
-Example:
 
 HTML
 
